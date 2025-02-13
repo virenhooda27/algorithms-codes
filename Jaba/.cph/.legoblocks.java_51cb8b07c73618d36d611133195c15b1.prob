@@ -1,0 +1,1 @@
+{"name":"Local: legoblocks","url":"c:\\Users\\viren\\Docs\\Jaba\\legoblocks.java","tests":[{"id":1729664497422,"input":"2\n2","output":"3"},{"id":1729664504394,"input":"4\n4","output":"3375"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\viren\\Docs\\Jaba\\legoblocks.java","group":"local","local":true}

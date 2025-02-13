@@ -1,0 +1,1 @@
+{"name":"Local: sumofvariations","url":"c:\\Users\\viren\\Docs\\Jaba\\sumofvariations.java","tests":[{"id":1729666359221,"input":"2\n3\n4","output":"3"},{"id":1729666367249,"input":"2\n5\n10","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\viren\\Docs\\Jaba\\sumofvariations.java","group":"local","local":true}
